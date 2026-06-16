@@ -34,7 +34,7 @@ vuln-analysis-notes/
 ├── report-template/
 │   └── vulnerability-report-template.md ← Professional VA Report Template
 └── assets/
-    └── (screenshots & diagrams)
+    └── (diagrams)
 ```
 
 ---
